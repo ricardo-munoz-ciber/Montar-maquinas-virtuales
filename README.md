@@ -20,6 +20,7 @@ Kali Linux: Máquina virtual aislada y dedicada a herramientas de seguridad ofen
 Ubuntu: Servidor de propósito general, ideal para alojar servicios en red, contenedores o herramientas de monitorización.
 
 Configuraciones Clave Implementadas
+
 Gestión de Red Virtual: Configuración estratégica de adaptadores (NAT, Host-Only, Bridged) para crear segmentos de red aislados, protegiendo la red doméstica durante las simulaciones.
 
 Optimización de Recursos: Asignación medida de memoria RAM y CPU dependiendo del rol y peso de cada sistema operativo para mantener un rendimiento fluido del hipervisor.
