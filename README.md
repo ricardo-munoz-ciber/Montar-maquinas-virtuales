@@ -1,2 +1,9 @@
-# Montar-maquinas-virtuales
-Creación y montaje de maquinas virtuales en VMware, (Windows/Linux)
+Título: Montaje de maquinas virtuales con VMware.
+
+Objetivo: 
+
+Tecnologías: 
+
+Configuración: 
+
+Capturas de Pantalla: 
