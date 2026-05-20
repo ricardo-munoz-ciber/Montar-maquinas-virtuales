@@ -10,6 +10,7 @@ Sistemas Operativos Desplegados
 
 Entornos Windows
 Windows 10 & Windows 11: Configurados como estaciones de trabajo cliente (Endpoints). Ideales para pruebas de despliegue de políticas, integración en dominios y simulación de usuarios finales.
+
 Windows Server 2022 & Windows Server 2025: Servidores base preparados para asumir roles de infraestructura crítica, como Controladores de Dominio (Active Directory), DNS y DHCP.
 
 Entornos Linux
