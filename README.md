@@ -7,7 +7,6 @@ Hipervisor Utilizado
 VMware (Workstation / ESXi)
 
 Sistemas Operativos Desplegados
-
 Entornos Windows
 Windows 10 & Windows 11: Configurados como estaciones de trabajo cliente (Endpoints). Ideales para pruebas de despliegue de políticas, integración en dominios y simulación de usuarios finales.
 
@@ -15,7 +14,9 @@ Windows Server 2022 & Windows Server 2025: Servidores base preparados para asumi
 
 Entornos Linux
 Linux Mint: Entorno principal para tareas de administración, gestión del hipervisor y levantamiento de servicios estables.
+
 Kali Linux: Máquina virtual aislada y dedicada a herramientas de seguridad ofensiva, escaneo de vulnerabilidades y auditorías de red.
+
 Ubuntu: Servidor de propósito general, ideal para alojar servicios en red, contenedores o herramientas de monitorización.
 
 Configuraciones Clave Implementadas
