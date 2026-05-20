@@ -24,6 +24,11 @@ Snapshots (Instantáneas):Creación de puntos de restauración base ("Golden Ima
 VMware Tools: Instalación y configuración en todos los sistemas invitados para garantizar la correcta integración de red, video y rendimiento con el sistema anfitrión.
 
 Topología / Vista del Entorno
+
+
+
+
+
 <img width="270" height="189" alt="image" src="https://github.com/user-attachments/assets/54e0993b-74b5-4651-943d-8d0c0666ae76" />
 
 
