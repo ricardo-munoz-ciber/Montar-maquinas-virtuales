@@ -21,8 +21,11 @@ Ubuntu: Servidor de propósito general, ideal para alojar servicios en red, cont
 
 Configuraciones Clave Implementadas
 Gestión de Red Virtual: Configuración estratégica de adaptadores (NAT, Host-Only, Bridged) para crear segmentos de red aislados, protegiendo la red doméstica durante las simulaciones.
+
 Optimización de Recursos: Asignación medida de memoria RAM y CPU dependiendo del rol y peso de cada sistema operativo para mantener un rendimiento fluido del hipervisor.
+
 Snapshots (Instantáneas):Creación de puntos de restauración base ("Golden Images") tras las instalaciones limpias y actualizaciones. Esto permite revertir las máquinas a un estado seguro en segundos tras pruebas de seguridad o configuraciones fallidas.
+
 VMware Tools: Instalación y configuración en todos los sistemas invitados para garantizar la correcta integración de red, video y rendimiento con el sistema anfitrión.
 
 Topología / Vista del Entorno
